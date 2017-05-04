@@ -1,0 +1,29 @@
+<div class="container">
+
+  <div class="row text-center">
+    <div id="burger-header" class="col-md-8 col-md-offset-2">
+      <h1 class="burger-text">Welcome to Virtual Burger Land!</h1>
+      <img src="./images/burger.png"/>
+    </div>
+  </div>
+
+  <BR><BR>
+
+  <div class="row">
+
+    <div class="col-md-3 side-menu">{{> noEaten}}</div>
+
+    <div class="col-md-6 text-center">
+      <form id="submit-burger-form">
+        <label for="burger-name"><h3>Burger Type?</h3></label>
+        <br>
+        <input id="burger-name-input" type="text" placeholder="Anything but tofu, please."/> 
+        <br><br>
+        <button class="btn btn-success" id="burger-submit">ADD BURGER!</button>
+      </form>
+    </div>
+
+    <div class="col-md-3 side-menu">{{> yesEaten}}</div>
+
+  </div>
+</div>
