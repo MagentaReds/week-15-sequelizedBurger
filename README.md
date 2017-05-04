@@ -4,7 +4,8 @@ Again, I mostly followed the instructions with this homework due to the second p
 
 I have sucessfully replaced my custom ORM with Sequelize.  And also have it deployed and run succesfully to/on Heroku.
 
-### Notes from week-14-burger
+
+## Notes from week-14-burger
 
 I mostly followed the homework instructions for this assignment due to time and the incoming project next week.  I did add a delete button for "throwing the wrapper away" for burgers that have been eatened already.  
 
