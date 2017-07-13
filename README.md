@@ -1,4 +1,4 @@
-# week-15-dequelizeBurger
+# week-15-sequelizeBurger
 
 Again, I mostly followed the instructions with this homework due to the second project starting this week.  I figure my time is better spent working on that since it has us using the same technologies and methods as this homework.
 
